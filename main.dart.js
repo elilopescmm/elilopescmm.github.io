@@ -37995,7 +37995,7 @@ var $async$q8=A.a3(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 j=t.N
 s=6
-return A.a7(A.azQ(A.iG("http://45.7.24.52:1432/v1/logapp"),A.aH(["Authorization","Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJDTU0gU0lTVEVNQVMiLCJzdWIiOiI5OTkiLCJ1c3VhcmlvIjoiY21tc2lzdGVtYXMiLCJpYXQiOjE2ODQxOTgzODl9.Maq9pYVZpPnkPoVAEbBsmweQ76h6v_yT6pKuqqdHpJE"],j,j)),$async$q8)
+return A.a7(A.azQ(A.iG("http://45.7.24.52:1432/v1/logapp"),A.aH(["Authorization","Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJDTU0gU0lTVEVNQVMiLCJzdWIiOiI5OTkiLCJ1c3VhcmlvIjoiY21tc2lzdGVtYXMiLCJpYXQiOjE2ODQxOTgzODl9.Maq9pYVZpPnkPoVAEbBsmweQ76h6v_yT6pKuqqdHpJE","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","*"],j,j)),$async$q8)
 case 6:n=b
 if(n.b===200){j=n
 m=B.cr.eT(0,A.azA(A.axx(j.e).c.a.h(0,"charset")).eT(0,j.w))
