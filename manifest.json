@@ -1,6 +1,6 @@
 {
-    "name": "cmmstatus",
-    "short_name": "cmmstatus",
+    "name": "web_dashboard_app_tut",
+    "short_name": "web_dashboard_app_tut",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
