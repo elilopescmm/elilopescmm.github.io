@@ -1,6 +1,6 @@
 {
-    "name": "web_dashboard_app_tut",
-    "short_name": "web_dashboard_app_tut",
+    "name": "estudo",
+    "short_name": "estudo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
